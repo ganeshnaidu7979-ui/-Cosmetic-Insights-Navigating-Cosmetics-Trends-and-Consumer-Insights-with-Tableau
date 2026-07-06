@@ -61,8 +61,5 @@ o Record explanation Video for project end to end solution
 o Project Documentation-Step by step project development procedure
 
 TEAM MEMBERS :
-1.Gangothri Madduru
-2.Lakshmichetty Reddyeswari
-3.P Poojitha sai
-4.Venu gopal
-5.Shivaram
+1.k ganesh naidu
+2.T Chandana reddy
